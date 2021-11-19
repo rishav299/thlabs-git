@@ -1,0 +1,3 @@
+-This is project file
+-This is learning git basic
+-Today is Friday night
